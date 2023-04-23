@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1D84kySGwqKTBiXlyyHobtWlQFC-t7PbB?usp=sh
 
 ## Link for documentation: 
 https://docs.google.com/document/d/1Ctojou6nJFcSP8l-GYfdE4rZBaRaf2lIm9uZUvcP3DA/edit?usp=sharing
+
+## Link for Trello:
+https://trello.com/invite/b/NzhleUwt/ATTI5beea87849a6abca4056acc2e757e9177D683C6B/comp3610-project
